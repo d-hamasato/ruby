@@ -1,0 +1,2 @@
+name = "ガラゴ"
+puts name
